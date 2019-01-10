@@ -4,7 +4,7 @@
 2. Copy `.env.example` to `.env`
 3. Create a new instance in Realm Cloud and add its hostname to `.env`.
 4. Add an admin user to the instance using Realm Studio and add the username and password to `.env`.
-5. Delete the default realm, as it's a query based sync realm and we want a full sync realm. If we don't do this, you'll get
+5. Delete the default realm, as it's a query based sync realm and we want a full sync realm.
 6. Run `npm start`.
 
 ## Expected Result
